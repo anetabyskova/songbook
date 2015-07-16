@@ -1,0 +1,65 @@
+\documentclass[a4paper, 17pt]{extarticle} %size = 8,9,10,11,12,14,17,20,25
+\usepackage[bookmarks]{hyperref}
+\usepackage[chorded]{songs}
+%\includeonlysongs{2}
+
+%%Balíčky/nastavení pro sazbu českého textu
+\usepackage[czech, english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+%A5 sizes 148 × 210 millimeters
+%\newdimen\afivewidth
+%\newdimen\afiveheight
+%\afivewidth  = 148mm
+%\afiveheight = 210mm
+%\setlength{\textwidth}{0.9\afivewidth}
+%\setlength{\textheight}{0.9\afiveheight}
+
+%A4
+\setlength{\textwidth}{6.6in}
+\setlength{\textheight}{10in}
+%letter
+%\setlength{\textwidth}{6.5in}
+%\setlength{\textheight}{9.1in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\topmargin}{0in}
+\setlength{\topskip}{0in}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\settowidth{\versenumwidth}{1.\ }
+\pagestyle{empty}
+
+\newindex{titleidx}{titlfile} 		%to generate, run songidx titlfile.sxd titlfile.sbx
+\newauthorindex{authidx}{authfile}	%to generate, run songidx authfile.sxd authfile.sbx
+
+%%Moje nastaveni
+\renewcommand{\everychorus}{\textnote{R:}} 	%Nazev chorusu
+\versesep=6pt plus 2pt minus 2pt 		%mezera mezi slokami a chorusy
+\MultiwordChords	% Akordy nezpusobuji mezery mezi slovy			
+
+\begin{document}
+%% Make verses without chords shorter
+\setlength\baselineadj{-\baselineskip}
+
+\begin{center}
+\mbox{}
+\vspace{\stretch{1}}
+\\[1mm]
+{\Huge\textbf{ZPĚVNÍK ALBATROSŮ}}\\[12mm]
+{\Large Hron 2015}
+\vspace{\stretch{1}}
+\end{center}
+
+\newpage
+
+\showindex{Rejstřík písniček dle názvu}{titleidx}
+%\songsection{České}
+\begin{songs}{titleidx,authidx}
+\input{my_songs.sbd}
+\input{alb_songs.sbd}
+\end{songs}
+\showindex{Rejstřík písniček dle autora/interpreta}{authidx}
+
+\end{document}

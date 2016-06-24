@@ -1,3 +1,61 @@
+\beginsong{Barbarské pobřeží}[by={Asonance}]
+\beginverse
+\[Dmi]„Dvacet stupňů levobok a \[C]držte jižní \[Dmi]směr!“
+Máme \[F]Gibraltar v \[C]zádech, a když \[B]vítr vydr\[A]ží
+“Snad \[Dmi]uvidíme \[C]Afriku už \[Dmi]zítra nave\[Ami]čer“
+Náš \[B]cíl je přístav Oran na \[Ami]barbarském pobře\[Dmi]ží.
+\endverse
+\beginverse
+„Vidím loď, velkou loď!“, křičí hlídka z ráhnoví
+Máme Gibraltar v zádech, a když vítr vydrží
+když galéra se na obzoru v dálce objeví
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\beginverse
+„Jsi pirát, jsi lupič, nebo válečná loď snad?
+Máme Gibraltar v zádech, a když vítr vydrží
+Žádnou vlajku nemáš, jak tě máme uvítat?“
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\beginverse
+„To ne, piráti nejsme, my jsme loď obchodní,
+Máme Gibraltar v zádech, a když vítr vydrží
+do Liverpoolu plujeme už pětadvacet dní“.
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\beginverse
+Tak spustili jsme člun, on ve vlnách už je
+Máme Gibraltar v zádech, a když vítr vydrží
+„Vemte naší poštu domů do rodné Anglie!“
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\beginverse
+Však náhle vzduchem zahřměly dvě salvy z jejich děl
+Máme Gibraltar v zádech, a když vítr vydrží
+a černý prapor pirátů na stěžeň vyletěl
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\beginverse
+Jejich útok byl tak rychlý, že všechny překvapil
+Máme Gibraltar v zádech, a když vítr vydrží
+Ale pak náš výstřel z děla jim stěžeň ustřelil
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\beginverse
+„Slitování mějte!“ ty krysy křičely
+Máme Gibraltar v zádech, a když vítr vydrží
+Tak dali jsme jim milost – ke dnu je poslali
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\beginverse
+S piráty jsme se rvali, bili se dvojnásob
+Máme Gibraltar v zádech, a když vítr vydrží
+Loď byla jejich rakví a moře jejich hrob.
+Náš cíl je přístav Oran na barbarském pobřeží.
+\endverse
+\endsong
+
+
 \beginsong{Bál v lapáku}[
   by={Miki Rivola}]
 \beginverse
@@ -176,6 +234,57 @@ místo na koních tam jezděj v medvědech.
 \beginchorus 2x \endchorus
 \endsong
 
+\beginsong{Čarodějnice z Amesbury}[by={Asonance}]
+\beginverse
+\[Emi]Zuzana byla dívka, \[D]která žila v \[Emi]Amesbury.
+S jasnýma \[G]očima a \[D]řečmi pánům \[Emi]navzdory.
+Soused\[G]é o ní \[D]říkali, že \[Emi]temná kouzla \[Hmi]zná.
+A \[C]že se lidem vyhý\[Hmi]bá, a s \[C]ďáblem \[D]pletky \[Emi]má.
+\endverse
+\beginverse
+Onoho léta náhle mor dobytek zachvátil,
+a pověrčivý lid se na pastora obrátil,
+že znají tu moc nečistou, jež krávy zabíjí.
+A odkud ta moc vychází, to každý dobře ví.
+\endverse
+\beginverse
+Tak Zuzanu hned před tribunál předvést nechali,
+a když ji vedli městem, všichni kolem volali:
+"Už konec je s tvým řáděním, už nám neuškodíš,
+teď na své cestě poslední, do pekla poletíš!".
+\endverse
+\beginverse
+Dosvědčil jeden sedlák, že zná její umění,
+ďábelským kouzlem prý se v netopýra promění.
+A v noci nad krajinou létává, pod černou oblohou,
+sedlákům krávy zabíjí, tou mocí čarovnou.
+\endverse
+\beginverse
+Jiný zas na kříž přísahal, že její kouzla zná.
+v noci se v černou kočku mění dívka líbezná.
+Je třeba jednou pro vždy ukončit ďábelské řádění,
+a všichni křičeli jak posedlí: "Na šibenici s ní!".
+\endverse
+\beginverse
+Spektrální důkazy pečlivě byly zváženy,
+pak z tribunálu povstal starý soudce vážený:
+"Je přece v knize psáno nenecháš čarodějnici žít,
+a před ďáblovým učením, budeš se na pozoru mít!".
+\endverse
+\beginverse
+Zuzana stála krásná s hlavou hrdě vztyčenou,
+a její slova zněla klenbou s tichou ozvěnou:
+"Pohrdám vámi neznáte nic nežli samou lež a klam,
+pro tvrdost vašich srdcí jen, jen pro ni umírám!".
+\endverse
+\beginverse
+Tak vzali Zuzanu na kopec pod šibenici,
+a všude kolem ní se sběhly davy běsnící.
+A ona stála bezbraná, však s hlavou vztyčenou.
+Zemřela tiše samotná, pod letní oblohou.
+\endverse
+\endsong
+
 \beginsong{Proklatej vůz}[
    by={Greenhorns}]
 \beginverse
@@ -328,77 +437,7 @@ Robert Ford v nočních tmách připlíží se jako had, a on vám Jesse Jamese 
 \endverse
 \endsong
 
-\beginsong{Hledá se žena}[
-   by={Mandrage}]
-\beginverse
-\[Ami]Hledá se žena, mladá \[G]slečna,\[E]
-\[Ami]kdekoli ona může \[G]být.\[E]
-\[Ami]Hledá se žena nebez\[G]pečná,\[E]
-\[Ami]sem Sherlock Holmes a \[G]Billidy Kit.
-\endverse
-\beginverse
-Hledá \[Ami]se žena, dobrá \[G]zpráva,
-může chtít \[F]víc, než moje \[G]práva.
-Stále \[Ami]čekám, marná \[C]sláva,
-budu \[G]hledat, kde budeš chtít.
-\endverse
-\beginverse
-Raději \[Ami]volná, nežli \[G]vdaná.
-Raději \[F]žádná, nežli \[G]vadná,
-tady je \[Ami]každá \[C]rada velmi \[G]drahá.
-\endverse
-\beginverse
-Hledá se žena, všeho schopná,
-smrt nebo slávu a nic víc.
-Taková může být jen ona,
-hledá se žena pro můj byt.
-\endverse
-\beginverse
-Hledá se žena, dobrá zpráva,
-může chtít víc, než moje práva.
-Stále čekám, marná sláva,
-budu hledat, kde budeš chtít.
-\endverse
-\beginverse
-Raději volná, nežli vdaná.
-Raději žádná, nežli vadná,
-tady je každá rada velmi drahá.
-\endverse
-\beginverse
-Hledá se žena, mladá slečna,
-hledá se žena nebezpečná.
-Ráno líná, v noci věčná,
-jenom ona to může být.
-\endverse
-\beginverse
-Raději volná, nežli vdaná.
-Raději žádná, nežli vadná,
-tady je každá rada velmi drahá.
-\endverse
-\beginverse
-Hledá se žena, dobrá zpráva,
-může chtít víc, než moje práva.
-Stále čekám, marná sláva,
-budu hledat, kde budeš chtít.
-\endverse
-\beginverse
-Raději volná, nežli vdaná.
-Raději žádná, nežli vadná,
-tady je každá rada velmi drahá.
-\endverse
-\beginverse
-Hledá se žena, mladá slečna,
-hledá se žena nebezpečná.
-Ráno líná, v noci věčná,
-jenom ona to může být.
-\endverse
-\beginverse
-Raději volná, nežli vdaná.
-Raději žádná, nežli vadná,
-tady je každá rada velmi drahá.
- 
-Jdou po mně, jdou (Jarek Nohavica)
-\endverse
+\beginsong{Jdou po mně, jdou}[by={Jarek Nohavica}]
 \beginverse
 Býval jsem \[D]chudý jak \[G]kostelní \[D]myš,
  na půdě \[F#mi]půdy jsem \[Hmi]míval svou \[A]skrýš,
@@ -704,39 +743,6 @@ La, la, la, no nic moc extra nebyla.
 \endverse
 \endsong
 
-\beginsong{Kluziště}[
-   by={Karel Plíhal}]
-\beginverse
-\[C]Strejček \[Emi]kovář \[Ami7]chytil \[C]kleště, \[Fmaj7]uštíp z \[C]noční \[Fmaj7]oblohy \[G]
-\[C]Jednu \[Emi]malou \[Ami7]kapku \[C]deště, ta \[Fmaj7]mu \[C]spadla \[Fmaj7]pod nohy\[G],
-nejdřív ale chytil slinu, tak šáh kamsi pro pivo,
-pak přitáhnul kovadlinu a obrovský kladivo.
-\endverse
-\beginchorus
-Zatím \[C]tři bílé \[Emi]vrány pě\[Ami7]kně za se\[C]bou kolem jd\[Fmaj7]ou, někam jd\[C]ou, do rytm\[D7]u se kývaj\[G]í,
-tyhle tři bílé vrány pěkně za sebou
-kolem jdou, někam jdou, nedojdou, nedojdou.
-\endchorus
-\beginverse
-Vydal z hrdla mocný pokřik 
-ztichlým letním večerem,
-pak tu kapku všude rozstřík 
-jedním mocným úderem,
-celej svět byl náhle v kapce 
-a vysoko nad námi
-na obrovské mucholapce 
-visí nebe s hvězdami.
-\endverse
-\beginchorus \endchorus
-\beginverse
-Zpod víček mi vytrysk pramen na zmačkané polštáře,
-kdosi mě vzal kolem ramen a políbil na tváře,
-kdesi v dálce rozmazaně strejda kovář odchází,
-do kalhot si čistí dlaně zamazané od sazí.
-\endverse
-\beginchorus \endchorus
-\endsong
-
 \beginsong{Čtvrté přání}[
    by={Karel Černoch}]
 \beginverse
@@ -772,40 +778,6 @@ I když řekne mnohý z vás, že příběh dávno smazal čas.
 Svět se stále otáčí, a tři přání nestačí.
 Kdo mi to řek, kdožpak ví, dost možná, že ten nejmladší,
 když kolem šel za čtvrtým přáním. 
-\endverse
-\endsong
-
-\beginsong{Krasojízda}[
-   by={Vypsaná fixa}]
-\beginverse
-/: \[D]Jsou někdy chvíle, když je v melodii Bůh, 
-občas i Ďábel do ní taky cestu najde.
-Tvý rty jsou sladký jako vanilkový vzduch. 
-Pojď! 
-Odejdem spolu do vedlejšího pokoje. :/
-\endverse
-\beginverse
-A v něm \[F]vyměním pár teplých \[Ami]bílých 
-rukavic rád \[D]od tety\[G]Lindy 
-za bílou krysu 
-\[F]sebedestruktivní \[Ami]program 
-jo někdy je \[D]fajn 
-někdy zas \[G]jedu krasojízdu 
-\endverse
-\beginverse
-\[F]Nahoru do hvězdárny 
-\[Ami]běžel a halucino\[D]val 
-vůbec se \[G]nedíval 
-ani se ne\[F]otáčel 
-nahoru do hvěz\[Ami]dárny 
-kterou si postavil \[D]sám 
-čekal na \[G]tebe!
-(Da capo e poi la Coda – od začátku až sem a potom závěr):
-Coda:
- a řval 
-/: \[F]"Jé \[Ami]tady je to \[D]zajímavé"\[G]:/
-Jako \[F]Théseus si skočil přes \[Ami]býka 
-a \[D]nemohl se hnout\[G].
 \endverse
 \endsong
 
@@ -1029,42 +1001,6 @@ dál nikdo nic nedodal.
 \endverse
 \endsong
 
-\beginsong{Nejlíp jim bylo}[
-   by={Mňága a Žďorp}]
-\beginverse
-Nejlíp jim \[C]bylo\[Fmaj7],
-\[C]když \[Fmaj7]nevěděli co \[C]dělají\[Fmaj7, C, Fmaj7],
-jenom se \[G]potkali
-\[F]a neznělo to \[C]špatně \[Fmaj7].
-\endverse
-\beginverse
-Tak se snažili a opravdu si užívali,
-jenom existovali a čas běžel skvěle.
-\endverse
-\beginchorus
-\[F]Nechám si projít \[C]hlavou,
-\[G]kam všechny věci \[Ami]plavou,
-\[F]jestli je všechno jen \[C]dech,
-\[G]tak jako kdysi v noci
-\[Ami]spolu potmě na schodech\[C, Fmaj7].
-\endchorus
-\beginverse
-Pak se ztratili a chvílema se neviděli,
-jenom si telefonovali a byli na tom bledě.
-\endverse
-\beginverse
-A když se vrátili, už dávno nehořeli,
-jenom dál usínali, chvíli spolu - chvíli vedle sebe.
-\endverse
-\beginchorus
-/: Nechám si projít hlavou,
-kam všechny věci plavou,
-jestli je všechno jen dech,
-tak jako kdysi v noci
-spolu potmě na schodech. :/
-\endchorus
-\endsong
-
 \beginsong{Píseň zhrzeného trampa}[
    by={Jarek Nohavica}]
 \beginverse
@@ -1147,53 +1083,6 @@ Schovej sirky, ať je neviděj
 \beginchorus \endchorus
 \endsong
 
-\beginsong{Ruzyně}[
-   by={Vypsaná fixa}]
-\beginverse
-Já jsem blázen, jdu z jeskyně ven 
-a cítím, jak moc hořím nespoutaným plamenem. 
-\endverse
-\beginverse
-A ty jsi ta, co to rozpočítá a na koho to slovo padne, řekne ratata. 
-\endverse
-\beginchorus
-A bude to jak běsnící pěsti v usazeném kalu, 
-můžeme se zbavit všeho,
-ono to jak bahno spadne dolů dolů dolů 
-až dolů. 
-\endchorus
-\beginverse
-Já jsem – I am, tady nad ránem 
-spolknu všechny monology, se vzduchoprázdnem 
-a ty jsi ty, to je bez debaty, 
-zabalím si tvoji vůni do cigarety. 
-\endverse
-\beginchorus
-Bude to jak běsnící, masožravá květina, 
-můžeme se nadechnout, cítíš, už to začíná. 
-\endchorus
-\beginverse
-Zavřeme svý dravce do skříně, anebo né, 
-brzy se jazyk dotkne Ruzyně,
- anebo taky ne pomalu né (4x). 
-\endverse
-\beginverse
-(Připadá Ti To Taky Tak Tragických pět T? )
-\endverse
-\beginverse
-Já jsem blázen, jdu z jeskyně ven 
-a cítím, jak moc hořím nespoutaným plamenem 
-A ty jsi ta, co to rozpočítá, na koho to slovo padne, řekne ratata. 
-\endverse
-\beginchorus
-A bude to jak běsnící, pěsti v usazeném kalu... 
-\endchorus
-\beginchorus
-A bude to jak běsnící, pěsti v usazeném kalu... + a já mám dojem, že zlikvidujem 
-všechno co je, a pak to nebude, a pak to nebude, a pak to nebude, a pak to nebude, a pak tu nebudem. 
-\endchorus
-\endsong
-
 \beginsong{Schovaná}[
    by={Vypsaná fixa}]
 \beginverse
@@ -1251,83 +1140,6 @@ Uletí týden, jsi tady už dva roky. (lalala...)
 Balíš kufry, zavazuješ boty, (lalala...) 
 čekaj byty v San Piego City. (lalala...) 
 Ahoj. 
-\endverse
-\endsong
-
-\beginsong{Šakalí léta}[
-   by={Ivan Hlas}]
-\beginverse
-Táhněte \[C]do háje všichni \[Ami]pryč.
-Chtěl jsem jít \[C]do ráje a nemám \[Ami]klíč. Jak si tu \[C]můžete takhle \[Ami]žrát? Ztratil \[F]jsem holku, co jí \[G]mám rád.
-\endverse
-\beginverse
-Napravo, nalevo, nebudu mít klid.
-Dala mi najevo, že mě nechce mít.
-Zbitej a špinavej tancuju sám.
-Váš pohled káravej už dávno znám.
-\endverse
-\beginchorus
-Pořád \[F]jen na kolena, na kolena, na kolena, \[C]jéjé,
-Pořád \[F]jen na kolena, na kolena, na kolena, \[C]jéjé,
-Pořád \[F]jen na kolena, na kolena, na kolena, \[C]je to \[Ami]tak. 
-A vaše \[F]saka vám posere \[G]pták.
-\endchorus
-\beginverse
-Cigáro do koutku si klidně dám.
-Tuhle tu pochoutku vychutnám sám.
-Kašlu vám na bonton. Bejby, si chytrej chlap.
-Sere mě tichej tón a ten váš tupej dav.
-\endverse
-\beginchorus
-.. je to tak... A tenhle barák vám posere pták.
-\endchorus
-\endsong
-
-\beginsong{Sára}[
-   by={Traband}]
-\beginchorus
-\[Emi]Sáro, \[Hmi]Sáro, \[C]v noci se mi \[G]zdálo, 
-že \[C]tři andělé \[G]Boží k nám \[C]přišli na \[D]oběd. 
-\[Emi]Sáro, \[Hmi]Sáro, \[C]jak moc, anebo \[G]málo 
-mi \[C]chybí, abych \[G]tvojí duši \[C]mohl rozumět\[D].
-\endchorus
-\beginverse
-Sbor kajícných mnichů 
-jde krajinou v tichu 
-a pro všechnu lidskou pýchu 
-má jen přezíravý smích. 
-Z prohraných válek se vojska domů vrací, 
-ač zbraně stále burácí a bitva zuří v nich.
-\endverse
-\beginverse
-Vévoda v zámku čeká na balkóně, 
-až přivedou mu koně, a pak mává na pozdrav. 
-Srdcová dáma má v každé ruce růže, 
-tak snadno pohřbít může 
-sto urozených hlav.
-\endverse
-\beginchorus \endchorus
-\beginverse
-Královnin šašek s pusou od povidel 
-sbírá zbytky jídel a myslí na útěk. 
-A v podzemí skrytí slepí alchymisté 
-už objevili jistě proti povinnosti lék.
-\endverse
-\beginverse
-Páv pod tvým oknem zpívá sotva procit 
-o tajemstvích noci ve tvých zahradách. 
-A já, potulný kejklíř, co svázali mu ruce, 
-teď hraju o tvé srdce a chci mít tě nadosah!
-\endverse
-\beginchorus
-Sáro, Sáro, pomalu a líně 
-s hlavou na tvém klíně chci se probouzet. 
-Sáro, Sáro, Sáro, Sáro, rosa padá ráno 
-a v poledne už možná bude jiný svět.
-\endchorus
-\beginverse
-Sáro, Sáro, vstávej, milá Sáro 
-Tři andělé k nám přišli \[D]na \[G]oběd. 
 \endverse
 \endsong
 
@@ -1397,36 +1209,6 @@ a nad hrobem polární zář.
 \endverse
 \endsong
 
-\beginsong{Sirény}[
-   by={Jan Nedvěd}]
-\beginverse
-\[G]Rány bijou do mých \[Ais]spánků, 
-\[F]Sirény je možná \[C]proděraví, 
-pak balonek na provázku 
-exploduje vedle mojí hlavy, 
-lvové bijou o mé mříže 
-tady a teď a teď a tady.
-\endverse
-\beginverse
-Rány bijou do mých spánků,
-Sirény je možná proděraví
-a balónek na provázku
-exploduje vedle mojí hlavy,
-namaluju ilustraci,
-a pak si lehnu na matraci.
-\endverse
-\beginverse
-A je mi \[G]dobře \[Ais]a \[F]příšerně \[C]
-a není jasný, jak to dopadne. 
-\endverse
-\beginverse
-\[G]A jde a \[Ais]jde a jde o \[F]to, 
-když se do \[C]sebe nevejdu, 
-abych to přežil v pořádku
-jako princezna pohádku.
-\endverse
-\endsong
-
 \beginsong{Šrouby a Matice}[
    by={Mandrage}]
 \beginverse
@@ -1470,45 +1252,8 @@ vysoko nad zemí, životem kalený,
 navěky spojení. Šrouby a matice.  
 \endverse
 \endsong
-
-\beginsong{Štěstí Jimmy Dixona}[
-   by={Vypsaná fixa}]
-\beginverse
-\[C]Budova \[G]stála na \[C]kraji \[F]mě\[D#]sta, 
-\[C]v taxíku \[G]byla \[C]zima \[F]\[D#],
-na taxametru svítila lebka, 
-potom vystoupil hrdina. 
-\endverse
-\beginverse
-Pre-Chorus: 
-\[C]Potom vy \[G]stoupil \[B]hrdina 
-a klidně \[F]pokračoval \[C]dál, 
-navštívit \[G]oblíbený \[F]stav, 
-extrémní šílenství. 
-\endverse
-\beginverse
-Chorus: 
-\[B]Štěstí Jimi \[F]Dixona už je \[C]fuk, 
-pomalu zakon\[D#]čuje v kabare\[B]tu, 
-jsou duchové \[F]ze zdí, 
-a líbají ho \[C]na rty\[D#]. 
-\endverse
-\beginverse
-Budova stála na kraji města, 
-v taxíku byla zima, 
-taxikářka se jmenovala IHAHA 
-její práce byla dřina. 
-\endverse
-\beginverse
-Potom vystoupil hrdina 
-a klidně pokračoval dál, 
-navštívit oblíbený stav, 
-extrémní šílenství. 
-\endverse
-\beginverse
-Štěstí Jimi Dixona..  
-Točí se, točí (Petr Lutka)
-\endverse
+ 
+\beginsong{Točí se, točí}[by={Petr Lutka}])
 \beginverse
 \[A]Točí se točí \[E]kolo ve \[A]mlýně. 
 Točí \[A]se točí, já \[D]jsem v tom \[A]nevinně.
@@ -1648,43 +1393,6 @@ i s děvou povětrnou.
 \endverse
 \endsong
 
-\beginsong{Trezor}[
-   by={Kája Gott}]
-\beginverse
-\[D]Ze zdi na mě tupě zírá 
-\[G]po trezoru temná díra,
-\[E7]poznám tedy bez nesnází, 
-\[A7]že tam nepochybně něco schází,
-\[D]ve zdi byl totiž po dědovi \[G]velký trezor ocelový.
-\[A7]Mám tedy ztrátu zdánlivě minimální\[D].
-\endverse
-\beginverse
-\[D]Na to že \[A7]náhodně v krámě vášnivé dámě 
-\[D]padl jsem za trofej\[Hmi],
-\[E7]tvrdila pevně: přijdu tě levně, 
-\[A7]nezoufej, ó jé, jé, jé, jé
-\[D]Jenže potom v naší vile \[G]chovala se zhůvěřile,
-\[E7]aby měla správné klima, 
-\[A7]dal jsem ji do trezoru, ať v klidu dřímá.
-\endverse
-\beginchorus
-\[D]Spánku se bráním už noc pátou, 
-\[G]ne ale žalem nad tou ztrátou,
-\[A7]jen hynu bázní, že kasař úlovek \[G]vrátí\[D].
-\endchorus
-\beginverse
-Na to že náhodně v krámě 
-vášnivé dámě padl jsem za trofej,
-tvrdila pevně: přijdu tě levně, 
-nezoufej, ó jé, jé, jé, jé.
-Jenže potom v naší vile 
-chovala se zhůvěřile,
-aby měla správné klima, 
-dal jsem ji do trezoru, ať v klidu dřímá.
-\endverse
-\beginchorus \endchorus
-\endsong
-
 \beginsong{Zítra ráno v pět}[
    by={Jarek Nohavica}]
 \beginverse
@@ -1716,4 +1424,56 @@ tak přilož na oheň a smutek v sobě skryj,
 prosím, nezapomeň, nezapomeň a žij,
 Lásko, nezapomeň a žij...
 \endverse
+\endsong
+
+\beginsong{Známka punku}[by={Visací zámek}]
+\beginverse
+Holinky nosil vždycky naruby
+Kohoutí hnát si zapích do huby
+Teplej rum pil i když potom blil
+Co hořelo to vyhulil
+Myslel si že je to známka punku
+\endverse
+\beginchorus
+Ale holky říkaly
+Že punk je jinde
+Ale holky říkaly
+To snad není možný
+\endchorus
+\beginverse
+Přeplněnej autobus nechával vždycky ujet
+Myslel že je to známka punku
+Kytky v jeho zahradě mohly volně bujet
+Myslel že je to známka punku
+Uznával jen kapely co neuměly hrát
+Myslel že je to známka punku
+Kolem pasu nosil umělohmotnej drát
+Myslel že je to známka punku
+\endverse
+\beginchorus
+\endchorus
+\beginverse
+No ale kdo není
+Boží nadělení
+Nedělejme z punka tupce
+No ale kdo není
+Boží nadělení
+Každé zboží má svého kupce
+\endverse
+\beginverse
+Křivák nosila vždycky naruby
+Myslel že je to známka punku
+Rtěnku si nanášela rovnou na zuby
+Myslel že je to známka punku
+Smála se jenom smutným věcem
+Myslel že je to známka punku
+Hrála v kapele s Jardou Švecem
+Myslela že je to známka punku
+\endverse
+\beginchorus
+Ale lidi říkali
+Že punk je jinde
+Ale lidi říkali
+No to snad není možný
+\endchorus
 \endsong
